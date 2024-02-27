@@ -23,4 +23,5 @@ QmtCam+ is a simple application for webcam acquisition and image processing.
 - GalaSoft.MvvmLight
 - AForge.Video.DirectShow
 - AForge.Video
--System.Drawing;
+- System.Drawing
+
