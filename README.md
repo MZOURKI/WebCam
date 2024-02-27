@@ -1,5 +1,5 @@
 ## Description
-QmtCam+ is a simple application for webcam acquisition and image processing.
+This is a simple application for webcam acquisition and image processing.
 
 ## Features
 - Start webcam acquisition
