@@ -8,6 +8,7 @@ QmtCam+ is a simple application for webcam acquisition and image processing.
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/MZOURKI/WebCam.git`
+
 2. Open the solution in Visual Studio.
 3. Build and run the application.
 
